@@ -10,5 +10,4 @@ AI-powered rental contract analyzer based on:
 ```bash
 pip install -r requirements.txt
 python scripts/init_chroma_db.py
-p
 python app.py
